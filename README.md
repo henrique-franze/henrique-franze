@@ -1,5 +1,8 @@
 ### Hi there 👋
+- 🔭 I’m currently working on Python classes for beginners
+- 💬 Ask me about
 
+- ⚡ Fun fact: Gym rat 💪
 <!--
 **henrique-franze/henrique-franze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
